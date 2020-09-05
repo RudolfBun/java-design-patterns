@@ -1,6 +1,6 @@
 ---
 layout: pattern
-title: microkernel architecture
+title: Microkernel Architecture
 folder: microkernel-architecture
 permalink: /patterns/microkernel-architecture/
 categories: Architectural
@@ -66,7 +66,7 @@ The Microkernel pattern offers some important **benefits**:
 - Portability
 - Flexibility and Extensibility
 - Separation of policy and mechanism
-- Scakability
+- Scalability
 - Reliability
 - Transparency
 
